@@ -1,5 +1,5 @@
 --execdiscord
-local webhook = ""
+local webhook = "https://discord.osyr.is/webhook_id_here" -- replace webhook_id_here with your webhook ID
 local discord = {}
 
 discord.WebhookGet = function()
